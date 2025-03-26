@@ -11,7 +11,7 @@ This project focuses on predicting the likelihood of heart disease in individual
 - Visualization of results
 
 ## Requirements
-- Python 3.x
+- Python 3.12.4
 - Libraries:
     - pandas
     - numpy
