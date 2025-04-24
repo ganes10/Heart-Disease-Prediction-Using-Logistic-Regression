@@ -11,7 +11,7 @@ This project is a web-based application for predicting the likelihood of heart d
 - Probability score for the likelihood of heart disease
 
 ## Requirements
-- Python 3.x
+- Python 3.12.4
 - Libraries:
     - streamlit
     - pandas
