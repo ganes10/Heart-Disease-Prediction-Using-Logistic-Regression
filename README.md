@@ -65,7 +65,7 @@ The logistic regression model provides accurate predictions for heart disease. T
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the system.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Ganesh Basnet
 
 ## Acknowledgments
 - [Streamlit documentation](https://docs.streamlit.io/)
