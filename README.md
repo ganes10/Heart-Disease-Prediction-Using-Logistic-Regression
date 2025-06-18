@@ -61,6 +61,10 @@ The model was trained on a publicly available heart disease dataset, which inclu
 ## Results
 The logistic regression model provides accurate predictions for heart disease. The application also displays the probability of heart disease for better interpretability.
 
+## Test
+To check the result use the below link.
+https://checkheartdisease.streamlit.app/
+
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the system.
 
