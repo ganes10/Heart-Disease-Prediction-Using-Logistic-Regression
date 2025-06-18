@@ -1,0 +1,44 @@
+2025-05-13 23:38:04,343 - INFO - Data loaded. Shape: (1190, 12)
+2025-05-13 23:38:04,346 - INFO - Class distribution:
+HeartDisease
+1    0.528571
+0    0.471429
+Name: proportion, dtype: float64
+2025-05-13 23:38:04,348 - INFO - Starting model training...
+2025-05-13 23:38:04,744 - INFO - Cross-val ROC AUC: 0.89 ± 0.05
+2025-05-13 23:38:04,746 - INFO - Best params: {'C': 1, 'penalty': 'l2'}
+2025-05-13 23:38:04,746 - INFO - Accuracy: 0.85
+2025-05-13 23:38:04,747 - INFO - ROC AUC: 0.91
+2025-05-13 23:38:04,750 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.85      0.84       112
+           1       0.86      0.85      0.86       126
+
+    accuracy                           0.85       238
+   macro avg       0.85      0.85      0.85       238
+weighted avg       0.85      0.85      0.85       238
+
+2025-05-13 23:41:43,053 - INFO - Data loaded. Shape: (1190, 12)
+2025-05-13 23:41:43,056 - INFO - Class distribution:
+HeartDisease
+1    0.528571
+0    0.471429
+Name: proportion, dtype: float64
+2025-05-13 23:41:43,059 - INFO - Starting model training...
+2025-05-13 23:41:43,482 - INFO - Cross-val ROC AUC: 0.89 ± 0.05
+2025-05-13 23:41:43,487 - INFO - Best params: {'C': 1, 'penalty': 'l2'}
+2025-05-13 23:41:43,488 - INFO - Accuracy: 0.85
+2025-05-13 23:41:43,489 - INFO - ROC AUC: 0.91
+2025-05-13 23:41:43,492 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.85      0.84       112
+           1       0.86      0.85      0.86       126
+
+    accuracy                           0.85       238
+   macro avg       0.85      0.85      0.85       238
+weighted avg       0.85      0.85      0.85       238
+
+2025-05-13 23:43:08,117 - ERROR - Data loading failed: '/Users/praswishbasnet/Desktop/Heart-Disease-Prediction-Using-Logistic-Regression/data/HeartDisease_Dataset.csv'
+2025-05-13 23:44:41,730 - ERROR - Data loading failed: '/Users/praswishbasnet/Desktop/Heart-Disease-Prediction-Using-Logistic-Regression/data/HeartDisease_Dataset.csv'
